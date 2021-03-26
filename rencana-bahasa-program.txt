@@ -7,3 +7,5 @@ Rencana belajar pemograman
 2. Menguasai PHP
   - Codeigniter
   - Laravel
+
+3. Menguasai CSS
