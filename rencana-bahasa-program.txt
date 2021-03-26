@@ -1,0 +1,4 @@
+Rencana belajar pemograman
+
+1. Menguasai javascript
+2. Menguasai PHP
