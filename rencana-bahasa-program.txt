@@ -10,4 +10,4 @@ Rencana belajar pemograman
   - Laravel
 
 3. Menguasai CSS
-  - bootstrap
+  - Materealize
