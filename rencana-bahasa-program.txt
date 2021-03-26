@@ -3,9 +3,11 @@ Rencana belajar pemograman
 1. Menguasai javascript
   - Javascript DOM
   - Node JS
+  - Framework Vue
 
 2. Menguasai PHP
   - Codeigniter
   - Laravel
 
 3. Menguasai CSS
+  - bootstrap
