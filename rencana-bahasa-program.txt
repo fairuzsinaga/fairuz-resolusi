@@ -3,7 +3,7 @@ Rencana belajar pemograman
 1. Menguasai javascript
   - Javascript DOM
   - Node JS
-  - Angular
+  - Framework Vue
 
 2. Menguasai PHP
   - Codeigniter
