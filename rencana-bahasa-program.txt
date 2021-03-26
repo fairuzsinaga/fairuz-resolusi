@@ -1,4 +1,9 @@
 Rencana belajar pemograman
 
 1. Menguasai javascript
+  - Javascript DOM
+  - Node JS
+
 2. Menguasai PHP
+  - Codeigniter
+  - Laravel
